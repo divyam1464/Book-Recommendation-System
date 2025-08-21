@@ -1,0 +1,1 @@
+Web-based book recommendation system using Flask, HTML, and CSS for frontend development. Utilized Python for backend logic and recommendation algorithms. Successfully deployed a functional application showcasing full-stack development capabilities.
